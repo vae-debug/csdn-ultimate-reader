@@ -4,6 +4,7 @@
 // @version      5.0
 // @description  极简阅读增强插件
 // @author       liulipei
+// @license MIT
 //
 // @match        *://blog.csdn.net/*/article/details/*
 //
