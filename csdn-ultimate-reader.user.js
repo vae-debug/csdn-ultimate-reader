@@ -2,7 +2,7 @@
 // @name         CSDN Ultimate Reader
 // @namespace    local.csdn.ultimate.reader
 // @version      5.0
-// @description  极简阅读增强插件
+// @description  CSDN极简阅读增强插件
 // @author       liulipei
 // @license MIT
 //
