@@ -1,13 +1,20 @@
 // ==UserScript==
-// @name         CSDN 高级阅读增强脚本
+// @name         CSDN Ultimate Reader
 // @namespace    local.csdn.ultimate.reader
 // @version      5.0
-// @description  极简阅读 + 夜间模式 + 自动目录 + PDF/Markdown导出 + Vim快捷键 + AI总结等
+// @description  极简阅读增强插件
+// @author       liulipei
+//
 // @match        *://blog.csdn.net/*/article/details/*
+//
+// @downloadURL  https://raw.githubusercontent.com/vae-debug/csdn-ultimate-reader/main/csdn-ultimate-reader.user.js
+// @updateURL    https://raw.githubusercontent.com/vae-debug/csdn-ultimate-reader/main/csdn-ultimate-reader.user.js
+// @homepageURL  https://github.com/vae-debug/csdn-ultimate-reader
+// @supportURL   https://github.com/vae-debug/csdn-ultimate-reader/issues
+//
 // @grant        GM_setClipboard
 // @grant        GM_download
 // @grant        GM_xmlhttpRequest
-// @connect      api.openai.com
 // ==/UserScript==
 
 (function () {
